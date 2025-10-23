@@ -1,0 +1,5 @@
+../Drivers/CMSIS/Include/core_cm7.h:1970:22:__NVIC_SetPendingIRQ	2
+../RTG/Src/RTG.c:10:6:rtg_init	1
+../RTG/Src/RTG.c:23:6:TaskA	2
+../RTG/Src/RTG.c:41:6:TaskB	1
+../RTG/Src/RTG.c:53:6:EXTI15_10_IRQHandler	1

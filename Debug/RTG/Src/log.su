@@ -1,0 +1,3 @@
+../RTG/Src/log.c:16:6:log_init_function	4	static
+../RTG/Src/log.c:22:5:log_trace_function	40	static,ignoring_inline_asm
+../RTG/Src/log.c:53:6:vApplicationTickHook	8	static
